@@ -1,4 +1,4 @@
-## MLDL
+# 目次
 Machine Learning and Deep Learning Study Code
 
 独学や研修で学んだ機械学習のコードを公開しています。
