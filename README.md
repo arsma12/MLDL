@@ -1,6 +1,5 @@
 ### 目次
-- Machine Learning and Deep Learning Study Code
-- 独学や研修で学んだ機械学習のコードを公開しています。
+- 独学や研修で学んだ機械学習のモデルを公開しています。
 - GitHub上でうまく表示できない場合は、下記リンクからViewerで参照してください。
 - https://nbviewer.jupyter.org/github/arsma12/MLDL/tree/master/Kaggle/
 
