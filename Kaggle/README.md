@@ -1,6 +1,8 @@
 ## kaggleに挑戦
 
 ### kaggle
+- GitHub上でうまく表示できない場合は、Viewerで参照してください。
+- https://nbviewer.jupyter.org/github/arsma12/MLDL/tree/master/Kaggle/
 
 #### 01_KickStarterProjects
 - クラウドファンディングが成功するかを事前に予測する
