@@ -4,7 +4,7 @@ Machine Learning and Deep Learning Study Code
 独学や研修で学んだ機械学習のコードを公開しています。
 Kaggleにも挑戦しています。
 
-# Kaggle
+# kaggle
 ・KickStarterProjects：クラウドファンディングが成功するかを事前に予測する
 
 ・Titanic：乗客のデータから、生存率を予測する
