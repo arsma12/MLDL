@@ -1,3 +1,3 @@
 *.csv
-Titanic_00_Logistic_regression.ipynb
+*_org.ipynb
 .ipynb_checkpoints
