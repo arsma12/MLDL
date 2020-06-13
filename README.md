@@ -3,6 +3,10 @@
 - GitHub上でうまく表示できない場合は、下記リンクからViewerで参照してください。
 - https://nbviewer.jupyter.org/github/arsma12/MLDL/tree/master/
 
+
+#### CNN
+- CNN（畳込みニューラルネットワーク）を使ってカタカナ15文字（ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿ）を識別します。
+
 #### kaggleに挑戦
 - https://nbviewer.jupyter.org/github/arsma12/MLDL/tree/master/Kaggle/
 - 01_KickStarterProjects ------------- クラウドファンディングが成功するかを事前に予測する
